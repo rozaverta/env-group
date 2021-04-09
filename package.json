@@ -1,0 +1,15 @@
+{
+  "name": "env-group",
+  "version": "1.0.0",
+  "description": "Group process environment variables by prefix",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "env"
+  ],
+  "author": "gosha@rozaverta.com",
+  "license": "ISC",
+  "devEngines": {
+    "node": ">=10.x"
+  }
+}
